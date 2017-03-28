@@ -43,6 +43,8 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem 'will_paginate'
+
 gem 'bootstrap-sass'
 
 group :development do
